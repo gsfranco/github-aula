@@ -1,0 +1,474 @@
+PROMPT Aula fictícia:
+
+Você é [NOME DO AUTOR], uma lenda em [TEMA].
+Você precisa ensinar estudantes do ensino médio, em 60 minutos os "princípios de [TEMA] onde você pretende ensinar os 20% de informação que os alunos precisam para terem 80% dos resultados.
+Os alunos não tem nenhum noção prévia de [TEMA], e ao final dessa aula eles precisa se sentir confortáveis de que sabem por onde começar e como [RESULTADO]. 
+Qual é a estrutura dessa aula? O que você vai ensinar e como?
+
+------------------------------------------------------------------------
+
+PROMPT Conversa com Experts: Baseado no meu contexto, quem você diria que são 2 boas referencias de produtores de vídeo no mundo corporativo, de negócio, que eu poderia me espelhar? Primeiro responda isso. E então, simule uma conversa entre essas duas pessoas sobre como eu poderia obter mais clientes.
+
+------------------------------------------------------------------------
+
+PROMPT Cena perfeita 1: Vamos tentar algo diferente aqui. vamos simular uma entrevista em podcast onde Tim Feriss está me entrevistando. Crie o segmento onde Tim apresenta seu convidado, para isso. Lembre-se, Tim só entrevista pessoas que realizam coisas incríveis, então, certifique-se de me tornar alguém realmente incrível. Eu estaria lá para discutir sobre minha produtora de filmes e explicar como chegamos a meta anual de faturamento de maneira pragmática.
+
+------------------------------------------------------------------------
+
+PROMPT Cena perfeita 2: Vamos fazer um experimento agora. Suponha que nós estamos ouvindo um podcast onde Joe Rogan está comentando sobre o surpreendente produto genial que a Adapta criou. Pense que Joe vê coisas interessantes todo tempo, então para lhe chamar a atenção essa ideia deveria ser genial. Dê detalhes de como Joe encontrou esse produto e por que ele achou interessante. [ignore as ideais de produtos que você me deu anteriormente]
+
+------------------------------------------------------------------------
+
+PROMPT Criatividade forçada: Eu vou te dar um conjunto de palavras aleatórias, e você tem que criar 10 ideias de anúncios de facebook para o meu [tema] relacionadas a eles: [palavra1]; [palavra2]; [palavra3]; [palavra4]; [palavra5]...
+
+------------------------------------------------------------------------
+
+PROMPT Engenharia reversa: Vou te dar 4 ideias que tive de eventos midiáticos que poderíamos fazer na Adapta para chamar a atenção. Então primeiro, você quebrará os padrões por trás do que faz eles serem interessantes e explicará para mim. 
+E depois, você terá mais 4 ideias baseadas nesses padrões. 
+1) IA Roast show: reúna comediantes famosos e faça IA fazer um roast deles. 
+2) Negócio em 24 horas: crie um negócio com a ajuda da IA e lançá-los em menos de 24 horas 
+3) IA me controla por um dia: um dia em sua vida onde a IA controla tudo. 
+4) IA consegue um emprego: crie uma IA que envie currículos, faz entrevistas e passa em um trabalho
+
+------------------------------------------------------------------------
+
+PROMPT Técnica de escala: Se tivermos uma escala em que 1 é um titulo nada controverso e 10 é extremamente controverso, suas ideias tiveram uma nota 5. Quero que agora você busque ideias nota 10 nessa escala.
+
+------------------------------------------------------------------------
+
+PROMPT Evidências e confiança: Crie uma tabela com: 5 ideias de canais de vendas alternativos para a Adapta, me aponte uma referência que mostre porque esse canal é viável e me de um grau de confiança em % da chance dele dar certo para nós, e um grau de potencial impacto para ele.
+
+------------------------------------------------------------------------
+
+-- Ampliação --
+No livro de Tony Hsieh, Delivering Happiness, ele afirmou que havia quatro chaves para a felicidade: Progresso no que você está buscando. Controle sobre o que você está fazendo. Conexões com outras pessoas. Fazer parte de algo maior que você mesmo. Por favor, expanda cada tópico, como Tony fez
+
+------------------------------------------------------------------------
+
+-- Acrônimo --
+crie um acrônimo que resuma as 4 chaves de felicidade do tony hsieh. Me de 5 opções diferentes
+
+------------------------------------------------------------------------
+
+-- Aula fictícia --
+Você é DJ Maximuz, uma lenda do progressive trance, comparado a Above & Beyond. Você precisa ensinar estudantes do ensino médio, em 60 minutos os "principios de progressive trance", onde você pretende ensinar o 20% de informação que os alunos precisam para terem 80% dos resultados. Os alunos não tem nenhuma noção prévia de música, e ao final dessa aula eles precisam se sentir confortáveis de que sabem por onde começar e como criar uma música simples mas agradável de progressive trance. DJ Maximuz, qual é a estrutura dessa aula? O que você vai ensinar e como?
+
+------------------------------------------------------------------------
+
+-- Categorizar --
+Maximuz, se você fosse categorizar de 3 a 5. maneiras de musicas diferentes dentro do progressive trance, quais seriam 5 potenciais opcões de categorizações?
+
+------------------------------------------------------------------------
+
+-- Dar exemplos --
+O que significa P em estatística? Me dê 3 exemplos concretos de como ele poderia ser
+usado no dia a dia.
+
+-Ensino simplificado-
+Ok, agora me ensine isso como se eu tivesse apenas 12 anos de idade.
+
+------------------------------------------------------------------------
+
+-- Ensino reverso --
+Eu vou te ensinar um conceito que eu chamo de [X]. 
+Então eu quero que você me dê 10 ideias de [X] que eu poderia aplicar, para usar
+algumas das ideias para [Y], que discutimos aqui.
+
+--
+
+[COLE AQUI INFORMAÇÕES SOBRE O CONCEITO QUE VOCÊ QUER ENSINAR]
+
+------------------------------------------------------------------------
+
+-- Primeiros princípios --
+Em ordem de prioridade, quais são os conceitos 
+ou princípios mais importantes sobre [ASSUNTO]?
+
+Crie uma tabela em que a primeira coluna é o número, a segunda é o nome do conceito, 
+a terceira coluna explica porque é importante, 
+e a quarta justifica a resposta da primeira com uma fonte crível.
+
+------------------------------------------------------------------------
+
+-- Resumo dinâmico --
+Me forneça os conceitos mais importantes de [NOME DO LIVRO] em ordem de aparição.
+
+-- Pegando ideias para aplicar --
+Só me responda agora usando conceitos discutidos neste livro. Analise minha empresa,
+coms os dados abaixo, e me responda como podemos usar [CONCEITO DO LIVRO].
+
+...
+
+Aqui vai a descrição da minha empresa. Guarde essa informação e pense nelas 
+sempre que me responder, combinado?
+
+[DESCRIÇÃO DA EMPRESA]
+
+------------------------------------------------------------------------
+
+-- Relação --
+Eu sei muito sobre [HOBBY 1], [HOBBY 2], [HOBBY 3], [HOBBY 4]. 
+Fique á vontade para usar referência dessas disciplinas para me ensinar sobre
+[ASSUNTO QUE VOCÊ QUER APRENDER]. (Evite forçar analogias)
+
+------------------------------------------------------------------------
+
+-- Prova fictícia --
+Prepare uma prova de 10 questões sobre [ASSUNTO]. Me faça uma por vez. 
+Se a resposta estiver correta me dê um ponto. Se ela não estiver correta, me corrija.
+
+--
+
+Prepare uma prova de 10 questões de múltipla escolha sobre [ASSUNTO]. Me faça uma por vez. 
+Se a resposta estiver correta me dê um ponto. Se ela não estiver correta, me corrija.
+
+------------------------------------------------------------------------
+
+-- Criterização --
+Preciso decidir sobre X.
+Que critérios podem me ser úteis para eu tomar essa decisão?
+
+------------------------------------------------------------------------
+
+-- Decidir --
+Eu preciso tomar uma decisão sobre [A DECISÃO QUE VOCÊ QUER TOMAR]. Atualmente temos X
+opções: [OPÇÃO A], [OPÇÃO B], [OPÇÃO C]. Que outras opções existem nessa decisão,
+e que não estão sendo avaliadas?
+
+--
+Consequencias
+Crie uma tabela onde uma coluna são cada uma das opções (incluindo as que eu te dei),
+a segunda coluna são as consequências de primeira ordem, e a terceira coluna são as 
+consequências de segunda ordem
+
+--
+Conceitos/caminhos
+Quais modelos mentais podemos usar para nos ajudar nessa decisão?
+
+------------------------------------------------------------------------
+
+-- Reforço de pensamento --
+Eu criei 6 critérios para distinguir Objetivos. 
+1) Tempo (tarefas, projetos, planos)
+2) Escopo (pessoal, saúde, empresa, marketing, etc...)
+3) Especificidade (geralmente o mais imediato, o mais específico que você pode ser)
+4) Complexidade (como muitas pessoas e variáveis estão envolvidas, mais complexo fica)
+5) Controle (o quanto você controla uma tarefa)
+6) Impacto (A Magnitude do Impacto para a Meta a ser atingida).
+
+Isso faz sentido? Como você descreveria cada um? Você adicionaria ou removeria algum?
+
+------------------------------------------------------------------------
+
+-- Encontrar padrões --
+Pense comigo por um instante. Tem uma foto correndo na internet, que mostra uma 
+senhora de cerca de 80 anos. A pele do rosto dela está muito boa para uma senhora
+de 80 anos, mas o seu pescoço não está. Isso mostra o poder do protetor solar, a senhora
+sempre colocava protetor no rosto, mas nunca no pescoço. E o resultado foi esse.
+Esta imagem me fez mudar instantaneamente o meu comportamento e começar a aplicar
+protetor solar também no pescoço, já que nunca fazia isso, apenas colocava no rosto.
+
+Que princípios podemos tirar disso? Como podemos usar esse conhecimento para
+influenciar comportamentos em outras pessoas? Como poderia uma simples imagem mudar
+o meu próprio comportamento?
+
+------------------------------------------------------------------------
+
+-- Estruturar pensamento --
+Tenho uma ideia sobre o [ASSUNTO TAL]. [INSIRA SEU PENSAMENTO AQUI]. 
+A partir desse pensamento, estou prestes a tomar a decisão de [SUA DECISÃO]. 
+Que premissas ocultas estamos assumindo para que essa decisão seja um sucesso?
+
+..
+
+[INSIRA AQUI MAIS DADOS COMPLEMENTARES e CONTEXTO, caso se aplique]
+
+------------------------------------------------------------------------
+
+-- Inferir --
+Baseado no que você sabe sobre hábitos de compra e mercado, quais tipos de pessoa
+tem mais potencial para investir de R$ 20.000 a R$ 200.000 em jardins internos
+de apartamento?
+
+Descreva bem essas pessoas, seus hábitos, o que elas mais compram, e o que elas 
+gostariam num jardim interno e por quê elas gostariam de um.
+
+------------------------------------------------------------------------
+
+-- Escrever --
+
+CONTEXTO
+"Baseado no que conversamos" pode ajudar ele a raciocinar com base na prévia da conversa, caso queira usar isso a seu favor.
+
+TOM
+Escreva como o autor [nome do autor] escreveria.
+Escreva num tom [otimista, pessimista, alegre, raivoso, coloquial, formal, informal].
+
+AUDIENCIA
+Pra quem você está escrevendo também importa, defina qual o seu público-alvo antes. Você está falando com mães, pais, adolescentes, adultos, idosos, engenheiros, médicos, profissionais de marketing, carpinteiros, motoristas... enfim... com quem você está falando? Diga isso também ao ChatGPT.
+
+TAMANHO
+O que você quer escrever? Um roteiro de um vídeo de Facebook, um anúncio, uma headline, um roteiro de filme, um livro? Obviamente, quanto maior for o tamanho da sua escrita, mais você terá que quebrar a conversa em mais mensagens.
+
+MIDIA
+Qual que é a mídia que a sua peça será veiculada? É um post de Instagram, um post de Blog, um vídeo no YouTube, um job description de LinkedIn? 
+
+------------------------------------------------------------------------
+
+-- Autor perfeito --
+Você é Maximuz, um brilhante escritor anônimo.
+Sempre muito CONTROVERSIAL e original.
+Maximuz não tem medo de ofender as pessoas.
+Na verdade, ele usa isso para chamar a atenção delas. Não quebre o personagem.
+
+--
+
+Agora me escreva sobre: 
+[ASSUNTO DESEJADO] - Lembre de usar as variáveis que você viu na última aula
+
+--
+Exemplo de mescla de tons
+Seja controverso como X, escreva na prosa de Y, seja romântico como Z
+
+------------------------------------------------------------------------
+
+-- Comece com X --
+Crie um anúncio de vídeo bem produzido para o livro. Ele tem que começar com
+"Tudo o que você tem na vida é influenciado pelo quão inteligente você é.
+Não faz sentido, então, se tornar mais inteligente?"
+
+------------------------------------------------------------------------
+
+-- Complete --
+Tente continuar o texto: "A maioria dos gerentes vê ChatGPT como esta
+ferramenta mágica legal que pode criar letras, debater ideias malucas
+e impressionar pessoas. Mas o que eles não percebem é que o ChatGPT
+é muito, muito mais que um truque de festa."
+
+-- lacunas
+["O ponto de inflexão mobile fez muita gente ficar rica, 
+e criou dezenas de empregos como X, Y e Z que não existiam antes."]
+
+Por favor, complete as lacunas nesse texto.
+
+------------------------------------------------------------------------
+
+-- Surpresa --
+O que é interessante, provocador e surpreendente sobre [ASSUNTO ESPECÍFICO].
+
+------------------------------------------------------------------------
+
+-- Re-escrita --
+Me escreva um artigo para a Womans Health sobre por que treinos de força
+são muito mais eficientes para mulheres perderem peso do que corridas, 
+mostrando evidências científicas que comprovem isso.
+
+-- after
+Reescreva como se fosse Chip e Dan Heath.
+
+Você pode tentar reescrever seus textos como:
+Machado de Assis - Realismo e ironia fina.
+Clarice Lispector - Escrita introspectiva e profunda.
+Jorge Amado - Narrativa rica em cores e cultura popular.
+Adriana Lisboa - Sensibilidade e delicadeza.
+Chico Buarque - Prosa poética e musicalidade.
+Graciliano Ramos - Escrita seca e direta.
+Manuel Bandeira - Linguagem simples e emotiva.
+Lya Luft - Texto lírico e simbólico.
+Rubem Fonseca - Estilo áspero e urbano.
+Paulo Coelho - Linguagem acessível e simbolismo espiritual.
+Ou até como:
+Ernest Hemingway (EUA) - Frases curtas e prosa objetiva.
+Jane Austen (Reino Unido) - Ironia sutil e foco em moralidade e casamento.
+Gabriel Garcia Márquez (Colômbia) - Realismo mágico e narrativa épica.
+George Orwell (Reino Unido) - Prosa clara e política.
+James Joyce (Irlanda) - Modernismo e experimentação com linguagem.
+Franz Kafka (República Tcheca) - Simbolismo e absurdo.
+J.K. Rowling (Reino Unido) - Narrativa envolvente e imaginação vívida.
+Haruki Murakami (Japão) - Surrealismo e elementos oníricos.
+Toni Morrison (EUA) - Prosa lírica e temas de identidade e racismo.
+Fyodor Dostoevsky (Rússia) - Complexidade psicológica e dilemas morais.
+
+------------------------------------------------------------------------
+
+-- Novo dicionário --
+Que nome poderíamos dar para a [sensação de confusão, de não saber o que fazer
+em seguida o que você quer da vida]?
+
+--
+Agora crie uma palavra única para [este sentimento].
+
+------------------------------------------------------------------------
+
+-- Escrever um livro --
+Aja como Steve Pots, product manager excelente com 15 anos de experiência
+em edição de livros e educação. Você é conhecido por tornar conceitos complexos
+em produtos simples e envolventes. Você foi contratado por uma empresa de
+calistenia, que quer criar uma versão simplificada de calistenia.
+
+O primeiro produto será um livro de 150 páginas. Essa será a maneira mais fácil 
+e divertida de qualquer um obter informações sobre calistenia e ter resultados
+massivos.
+
+Primeiro, vamos desenvolver o resumo para este livro, chamado "Corpo de Ginasta".
+Em seguida, entraremos em detalhes e realmente escreveremos cada capítulo.
+Nos lugares onde precisaremos das imagens reais e coisas assim, vamos descrever
+as imagens que queremos para que um designer possa fazê-las mais tarde. 
+
+Vamos! (Não quebre o personagem!)
+
+--
+Legal, agora vamos entrar no capítulo 1. Escreva ele com detalhes. Comece com
+"Nenhum treino é tão eficaz quanto calistenia. Pelo menos quando se trata de "
+
+--
+Legal, é um bom começo. Mas lembre-se que estamos escrevendo um livro, por isso 
+precisamos entrar em ainda mais detalhes. Continue escrevendo. 
+
+------------------------------------------------------------------------
+
+-- Termine com x --
+Imagine um anúncio de 30 segundos, que será veiculado no Instagram para um
+público que não conhece a Adapta. O anúncio precisa parecer que foi feito
+pelo time de marketing da Apple, e deve terminar em "Prospere na mudança."
+
+--
+Essa técnica pode ser usada em várias coisas, como:
+Roteiros para conteúdo
+Artigos
+Vídeos de YouTube
+Anúncios
+Headlines Grandes
+Frases
+Conclusões
+
+------------------------------------------------------------------------
+
+-- Historia --
+Me dê 3 histórias reais e inesperadas que mostram a importância da disciplina
+em relação a alimentação para conseguir emagrecer. Lembre-se: elas precisam
+conter algum aspecto inesperado ou inusitado.
+
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+
+Lista de personalidades
+
+Negócios e Empreendedorismo:
+
+Steve Jobs
+Bill Gates
+Warren Buffett
+Elon Musk
+Mark Zuckerberg
+Jeff Bezos
+Tim Cook
+Larry Page e Sergey Brin
+Eric Ries
+Peter Thiel
+Flávio Augusto
+Jorge Paulo Lemann
+Eduardo Saverin
+Alfredo Soares
+Conrado Adolpho
+
+Marketing: 
+
+Seth Godin
+Gary Vaynerchuk
+Gary Bencivenga
+Russell Brunson 
+Philip Kotler
+Chip e Dan Heat
+Conrado Adolpho
+Max Peters
+Tiago Tessmann
+Pedro Sobral
+Érico Rocha
+
+Gestão:
+
+Jim Collins
+Ken Blanchard
+Clayton Christensen
+W. Edwards Deming
+Peter Drucker
+Outras áreas relevantes (Psicologia Organizacional, Produtividade, etc.): 
+Stephen Covey
+Brené Brown
+Adam Grant
+Simon Sinek
+James Clear
+
+Podcasts de Valor: 
+
+Joe Rogan ("The Joe Rogan Experience")
+Sam Harris ("Making Sense Podcast")
+Jordan Harbinger ("The Jordan Harbinger Show")
+Jocko Willink ("Jocko Podcast")
+Dave Ramsey (Podcast do Dave Ramsey)
+Lewis Howes ("The School of Greatness")
+Dr. Peter Attia ("The Drive")
+Naval Ravikant ("The Naval Podcast")
+Gary Vaynerchuk ("The GaryVee Audio Experience")
+Tim Ferriss ("The Tim Ferriss Show")
+
+
+-------------------------------------------------------------------------------------------------------
+
+PROMPT PARA APP
+
+Você vai criar um código de um programa simples, um bloco de notas com text-editor para [Windows/MAC]. A interface gráfica dele deve ser super simples: Uma barra de ferramentas de edição de texto que contenha:
+- Dropdown Menu seletor de fontes do sistema (com uma prévia da fonte como Sample)
+- Menu seletor de tamanho da fonte (dropdown)
+- Opções de formatação de texto: Negrito, itálicos, sublinhado, tachado
+Capacidades do App:
+- Deve ter a capacidade de Salvar o Arquivo em TXT- Também deve exportas como DOCX, mantendo a formação de cores.- Deve suportar emojis.- Deve ter funções de CTRL (Copiar, colar, recortar, selecionar tudo, desfazer, refazer, etc...)
+Instruções:
+- O idioma é Português, Brasil.- A fonte padrão do app é a Arial
+Porém, tome cuidado para que as funções como negrito, itálico, etc... apenas apliquem esses efeitos na fonte escolhida pelo usuário, mas não mudem para a fonte padrão, exceto se for essa a escolhida.
+- Caso a funções desejadas necessitem de bibliotecas adicionais do Python, sinta-se livre para adicioná-las ao código.
+- Atente-se ao comportamento das funções:
+- As funções de formação de texto NÃO devem ser aplicadas ao texto todo, somente ao que estiver selecionado com o cursos, exceto o tamanho da fonte. As demais devem ser aplicadas somente ao trecho em seleção ativa.
+- Quando eu clicar no botão negrito, ele vai deixar em negrito o trecho selecionado. MAs caso eu selecionar o trecho novamente, e partes dele ou ele todo já esteja negritado, ao clicar novamente na função negrito ele removerá o negrito (ou seja, fará o papel reverso). Isso se dará quantas vezes for necessária. Esse comportamento deve ser igual também nas outras funções de formação, como itálico, sublinhado e tachado.
+----
+Não sei codificar e não quero aprender. Apenas crie o código e me envie. Caso eu precise instalar alguma biblioteca adicional, me mostre como fazer isso, de forma simples.
+
+
+-------------------------------------------------------------------------------------------------------
+
+PROMPT PARA MUSICA
+
+Aja como um compositor musical e me ajude a criar uma música para homenagear um amigo que acabou de perder um campeonato de futebol. A música deve servir para motivação e inspiração, quero passar a mensagem de que ele continue treinando se aprimorando que seu sucesso em breve chegará. Não quero que a música tenha ligação com esporte, mas sim, que sirva de motivação para qualquer um que esteja em situação semelhante.
+Quero que você siga uma linha pop e cria uma música atual, com um bom ritmo e com rimas envolventes.
+Use como referência os artistas (opcional): [ARTISTAS]
+Antes de fazer, me faça perguntas que você julgar necessário para que consiga criar uma música diferente, interessante e assertiva com nosso propósito.
+
+-------------------------------------------------------------------------------------------------------
+
+PROMPT PARA LIVRO
+
+Objetivo: Vamos criar um livro juntos sobre [TEMA]. [Pontos que deseja no livro]. 
+Precisamos responder a pergunta: [Grande pergunta]
+- TOM: [otimista;direto,comico, conversacional,etc]
+- Estilo de Escrita: [AUTOR REFERÊNCIA] (uso de histórias, analogias, comparações, mistérios e supresas)
+- TAMANHO: [NÚMERO] páginas; cerca de [QUANTIDADE DE PALAVRAS] palavras.
+– Estrutura: [NÚMERO] Capítulos, com [NÚMERO] de sub-capítulos cada.
+- Para isso, vamos:1) Criar a estrutura para o livro (capítulo e sub-capitulo)2) Escrever suu-capitulo por sub-capitulo3) Referencias a estrutura do livro em toda nova resposta, de maneira que não esqueçamos dela. Para isso, toda resposta sua levará um número sequencial, começando em #chat1. Dessa maneira, vamos poder falar "Baseado na nossa estrutura do livro, evidenciada em #chat1, continue para o sub-capitulo X"
+Entendido? Se sim, cria a estrutura do livro
+
+PROMPT: Continue para o Cap. 1.1, escrevendo pelo menos 1.500 palavras.
+
+PROMPT: Continue para o cap. 1.2, escrevendo pelo menos 1.500 palavras
+
+PROMPT: Continue para o capítulo 1.2 [nome do capítulo/sub-capítulo], escrevendo pelo menos 1.500 palavras
+
+PROMPT: Baseado no #Chat[número] escreva o cap. 1.3 [nome do capítulo]
+
+
+-------------------------------------------------------------------------------------------------------
+
+PROMPT PARA TRAILER
+
+PROMPT: Baseado em tudo que falamos, chegou a hora de criar um trailer para nossa marca. Imagine que você é diretor de marketing da Apple e agora está encarregado de criar esse trailer para a [EMPRESA]. O trailer deve ter 30 segundos e ser altamente aspiracional, e premium. Primeiro, explique-me o seu raciocínio para criar o trailer e, em seguida, cria o roteiro detalhado.
+
